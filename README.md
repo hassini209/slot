@@ -117,7 +117,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![WhatsApp Image 2025-12-29 at 17 29 41](https://github.com/user-attachments/assets/aed4b1a1-d44d-4742-ae2d-287161178b82)
+![WhatsApp Image 2025-12-31 at 11 16 29](https://github.com/user-attachments/assets/44a4f7cc-e269-488a-b82e-4186e558fbee)
+
 
 
 
